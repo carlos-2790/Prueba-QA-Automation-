@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Menor precio</name>
+   <tag></tag>
+   <elementGuidId>0bff0c9d-ab94-4572-bf8a-7032c5c357e0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#andes-dropdown-más-relevantes-list-option-price_asc > div.andes-list__item-first-column > div.andes-list__item-text > span.andes-list__item-primary</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='andes-dropdown-más-relevantes-list-option-price_asc']/div/div/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>1baaa71a-c0a3-41ba-b812-57f32ccefa9b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>andes-list__item-primary</value>
+      <webElementGuid>a1e46a31-c640-4b39-b9aa-54120d8cdc16</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Menor precio</value>
+      <webElementGuid>6d3a78c8-feaf-4c19-b509-4540148582d5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;andes-dropdown-más-relevantes-list-option-price_asc&quot;)/div[@class=&quot;andes-list__item-first-column&quot;]/div[@class=&quot;andes-list__item-text&quot;]/span[@class=&quot;andes-list__item-primary&quot;]</value>
+      <webElementGuid>15ce3f75-c7e7-41eb-b2a1-f6ca0a9f6245</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='andes-dropdown-más-relevantes-list-option-price_asc']/div/div/span</value>
+      <webElementGuid>37754768-22e4-4023-811c-13255f920bb3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Más relevantes'])[2]/following::span[1]</value>
+      <webElementGuid>5afb2468-2874-4b65-bc3a-12ecb7de0992</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Más relevantes'])[1]/following::span[2]</value>
+      <webElementGuid>3f5795a5-606c-455b-ab73-ab794cf59c73</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mayor precio'])[1]/preceding::span[1]</value>
+      <webElementGuid>12f98647-447d-4529-a0f3-5c81c670c9c5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Samsung'])[3]/preceding::span[2]</value>
+      <webElementGuid>dc34d755-7a26-40c2-9dc8-69917ddecf38</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Menor precio']/parent::*</value>
+      <webElementGuid>f8c634e8-f957-4cd6-a190-84d538b4e94f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/div/div/span</value>
+      <webElementGuid>fd964a0c-bec3-4db6-a1ee-fdb291fd669d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Menor precio' or . = 'Menor precio')]</value>
+      <webElementGuid>7e4bea9d-8dcb-4fd9-8457-56c14b6f10ef</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
